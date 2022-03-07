@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odahunsi
 - 👀 I’m a Data Science enthusiast
-- 🌱 I’m currently learning Pyspark
+- 🌱 I’m currently learning Scrum
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me dansylobss@gmail.com
 
